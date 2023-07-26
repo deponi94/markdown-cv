@@ -10,7 +10,7 @@ Impiegato tecnico - Salute e sicurezza nei luoghi di lavoro
 <!---| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a> -->
 </div>
 
-### Esperienza lavorativa
+## Esperienza lavorativa
 
 **Impiegato tecnico e RSPP esterno** @ [Cantiero Ing. Mattia]() _(Giugno 2022 - Ora)_ <br>
 - Incarico di RSPP esterno (settori lavorazioni su metallo e trasporto merci su strada);
@@ -48,7 +48,7 @@ Titolo della tesi: "_Quale standard linguistico per l'Österbotten? Un approccio
 
 Con il lavoro di raccolta dati e successiva analisi sono riuscito a misurare la percezione e la valutazione della varietà locale di svedese nella zona dell'Österbotten (Finlandia), mettendo in risalto i successi e i limiti della politica linguistica di riavvicinamento allo standard linguistico di Svezia.
 
-### Abilitazioni
+## Abilitazioni
 
 `2023`
 RSPP mod. C
@@ -56,7 +56,7 @@ RSPP mod. C
 `2022`
 RSPP mod. A e B
 
-### Lingue
+## Lingue
 
 🇮🇹 **Italiano**: Madrelingua <br>
 🇺🇸 **Inglese**: C1 <br>
