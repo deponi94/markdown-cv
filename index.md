@@ -12,6 +12,7 @@ Impiegato tecnico - Salute e sicurezza nei luoghi di lavoro
 
 ## Esperienza lavorativa
 
+`Da giugno 2022`
 **Impiegato tecnico e RSPP esterno** @ [Cantiero Ing. Mattia]() _(Giugno 2022 - Ora)_ <br>
 - Incarico di RSPP esterno (settori lavorazioni su metallo e trasporto merci su strada);
 - Redazione di valutazione dei rischi (DVR) ai sensi del D.Lgs. 81/2008;
@@ -23,6 +24,7 @@ Impiegato tecnico - Salute e sicurezza nei luoghi di lavoro
 - Formazione utilizzo carroponte e gru a bandiera: parte teorica e parte pratica;
 - Amministrazione: rendicontazione e fatturazione elettronica attiva.
 
+`Da maggio 2019 a luglio 2020`
 **Studente collaboratore** @ [Università degli Studi di Milano](https://www.unimi.it/it) _(Maggio 2019 - Luglio 2020)_ <br>
 
 - _Biblioteca del Polo di Lingue e Letterature Straniere_
