@@ -6,7 +6,7 @@ title: Lorenzo Maria Fasoli
 Impiegato tecnico - Salute e sicurezza nei luoghi di lavoro
 
 <div id="webaddress">
-<a href="lorenzo.fasoli.94@gmail.com">isaac@applesdofall.org</a>
+<a href="lorenzo.fasoli.94@gmail.com">lorenzo.fasoli.94@gmail.com</a>
 <!---| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a> -->
 </div>
 
@@ -36,7 +36,7 @@ Impiegato tecnico - Salute e sicurezza nei luoghi di lavoro
     - Collaborazione studentesca 150 ore
     - Assistenza agli utenti, prestito e rientro
 
-## Education
+## Formazione
 
 `2017-2020`
 __Università degli Studi di Milano__
