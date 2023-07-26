@@ -63,7 +63,6 @@ RSPP mod. A e B
 🇸🇪 **Svedese**: B2 <br>
 🇩🇰 🇳🇴 **Danese e Norvegese**: competenza passiva (tramite 🇸🇪)
 
-
 <!-- ### Footer
 
 Last updated: May 2013 -->
