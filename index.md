@@ -40,6 +40,7 @@ Impiegato tecnico - Salute e sicurezza nei luoghi di lavoro
 
 ## Formazione
 
+### Laurea magistrale in Lingue e letterature europee ed extraeuropee
 `2017-2020`
 __Università degli Studi di Milano__
 
